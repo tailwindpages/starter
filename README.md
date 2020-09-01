@@ -1,6 +1,6 @@
 # TailwindPages Starter
 
-A simple starter project to create templatess with Eleventy, Tailwind CSS and Alpine JS
+A simple starter project to create templates with Eleventy, Tailwind CSS and Alpine JS
 
 ## Getting Started
 1. Clone this repository

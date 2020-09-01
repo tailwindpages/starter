@@ -4,7 +4,7 @@ module.exports = (config) => {
 
     config.addPlugin(pluginTailwind);
 
-    config.setDataDeepMere(true);
+    config.setDataDeepMerge(true);
 
     config.addPassthroughCopy("src/assets/js/**/*");
     config.addPassthroughCopy("src/assets/img/**/*");
